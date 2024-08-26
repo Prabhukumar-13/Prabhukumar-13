@@ -5,10 +5,10 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 ---
 
 ## 📖 Table of Contents
-- 🙋‍♂️ About Me
-- 🛠️ Skills
-- 🚀 Projects
-- 📬 Contact
+- [🙋‍♂️ About Me](https://github.com/Prabhukumar-13#%EF%B8%8F-about-me)
+- [🛠️ Skills](https://github.com/Prabhukumar-13#%EF%B8%8F-skills)
+- [🚀 Projects](https://github.com/Prabhukumar-13#-projects)
+- [📬 Contact](https://github.com/Prabhukumar-13#-contact)
 
 ---
 
