@@ -24,6 +24,9 @@ Hello! I'm **Mamidisetti Prabhu Kumar**, a passionate Undergraduate with a love 
 - **C**
 - **JAVA**
 - **PYTHON**
+- **HTML**
+- **CSS**
+- **JAVASCRIPT**
 <!--
 ### 📚 Frameworks & Libraries
 - **[Framework 1]**
@@ -33,7 +36,7 @@ Hello! I'm **Mamidisetti Prabhu Kumar**, a passionate Undergraduate with a love 
 ### 🛠️ Tools & Platforms
 - **VISUAL STUDIO**
 - **GOOGLE COLAB**
-- **JUPTIOR NOTEBOOK**
+- **JUPYTER NOTEBOOK**
 
 ### 🌱 Soft Skills
 - **Team Work**
